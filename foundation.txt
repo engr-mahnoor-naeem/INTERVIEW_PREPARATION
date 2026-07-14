@@ -1,3 +1,5 @@
-Totally fair question — and yes, it *can* be done, but the honest answer depends a lot on your starting point. This is a genuinely advanced project (it combines AI/LLMs, data engineering, and software development), so as a beginner, the path you take matters a lot for whether you succeed or get overwhelmed.
+Totally fair question — and yes, it *can* be done, but the honest answer depends a lot on your starting point. This is a genuinely 
+advanced project (it combines AI/LLMs, data engineering, and software development), so as a beginner, the path you take matters a lot for 
+whether you succeed or get overwhelmed.
 
 Let me ask a couple quick things so I can point you in the right direction instead of dumping everything on you at once.
